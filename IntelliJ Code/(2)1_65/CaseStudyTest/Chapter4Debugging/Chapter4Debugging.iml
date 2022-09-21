@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_17">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/Download/apache-log4j-2.18.0-src.zip!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://D:/Download/apache-log4j-2.18.0-src.zip!/apache-log4j-2.18.0-src/.mvn/wrapper" />
+          <root url="jar://D:/Download/apache-log4j-2.18.0-src.zip!/apache-log4j-2.18.0-src/log4j-1.2-api/src/main/java" />
+          <root url="jar://D:/Download/apache-log4j-2.18.0-src.zip!/apache-log4j-2.18.0-src/log4j-1.2-api/src/test/java" />
+          <root url="jar://D:/Download/apache-log4j-2.18.0-src.zip!/apache-log4j-2.18.0-src/log4j-api-java9/src/main/java" />
+          <root url="jar://D:/Download/apache-log4j-2.18.0-src.zip!/apache-log4j-2.18.0-src/log4j-api-java9/src/test/java" />
+          <root url="jar://D:/Download/apache-log4j-2.18.0-src.zip!/apache-log4j-2.18.0-src/log4j-api-java9/src/test/java9" />
+          <root url="jar://D:/Download/apache-log4j-2.18.0-src.zip!/apache-log4j-2.18.0-src/log4j-api/src/main/java" />
+          <root url="jar://D:/Download/apache-log4j-2.18.0-src.zip!/apache-log4j-2.18.0-src/log4j-api/src/test/java" />
+          <root url="jar://D:/Download/apache-log4j-2.18.0-src.zip!/apache-log4j-2.18.0-src/log4j-appserver/src/main/java" />
+          <root url="jar://D:/Download/apache-log4j-2.18.0-src.zip!/apache-log4j-2.18.0-src/log4j-cassandra/src/main/java" />
+          <root url="jar://D:/Download/apache-log4j-2.18.0-src.zip!/apache-log4j-2.18.0-src/log4j-cassandra/src/test/java" />
+          <root url="jar://D:/Download/apache-log4j-2.18.0-src.zip!/apache-log4j-2.18.0-src/log4j-core-its/src/test/java" />
+          <root url="jar://D:/Download/apache-log4j-2.18.0-src.zip!/apache-log4j-2.18.0-src/log4j-core-java9/src/main/java" />
+          <root url="jar://D:/Download/apache-log4j-2.18.0-src.zip!/apache-log4j-2.18.0-src/log4j-core-java9/src/test/java" />
+          <root url="jar://D:/Download/apache-log4j-2.18.0-src.zip!/apache-log4j-2.18.0-src/log4j-core/src/main/java" />
+          <root url="jar://D:/Download/apache-log4j-2.18.0-src.zip!/apache-log4j-2.18.0-src/log4j-core/src/test/java" />
+          <root url="jar://D:/Download/apache-log4j-2.18.0-src.zip!/apache-log4j-2.18.0-src/log4j-couchdb/src/main/java" />
+          <root url="jar://D:/Download/apache-log4j-2.18.0-src.zip!/apache-log4j-2.18.0-src/log4j-docker/src/main/java" />
+          <root url="jar://D:/Download/apache-log4j-2.18.0-src.zip!/apache-log4j-2.18.0-src/log4j-flume-ng/src/main/java" />
+          <root url="jar://D:/Download/apache-log4j-2.18.0-src.zip!/apache-log4j-2.18.0-src/log4j-flume-ng/src/test/java" />
+          <root url="jar://D:/Download/apache-log4j-2.18.0-src.zip!/apache-log4j-2.18.0-src/log4j-iostreams/src/main/java" />
+          <root url="jar://D:/Download/apache-log4j-2.18.0-src.zip!/apache-log4j-2.18.0-src/log4j-iostreams/src/test/java" />
+          <root url="jar://D:/Download/apache-log4j-2.18.0-src.zip!/apache-log4j-2.18.0-src/log4j-jakarta-smtp/src/main/java" />
+          <root url="jar://D:/Download/apache-log4j-2.18.0-src.zip!/apache-log4j-2.18.0-src/log4j-jakarta-smtp/src/test/java" />
+          <root url="jar://D:/Download/apache-log4j-2.18.0-src.zip!/apache-log4j-2.18.0-src/log4j-jakarta-web/src/main/java" />
+          <root url="jar://D:/Download/apache-log4j-2.18.0-src.zip!/apache-log4j-2.18.0-src/log4j-jakarta-web/src/test/java" />
+          <root url="jar://D:/Download/apache-log4j-2.18.0-src.zip!/apache-log4j-2.18.0-src/log4j-jcl/src/main/java" />
+          <root url="jar://D:/Download/apache-log4j-2.18.0-src.zip!/apache-log4j-2.18.0-src/log4j-jcl/src/test/java" />
+          <root url="jar://D:/Download/apache-log4j-2.18.0-src.zip!/apache-log4j-2.18.0-src/log4j-jdbc-dbcp2/src/main/java" />
+          <root url="jar://D:/Download/apache-log4j-2.18.0-src.zip!/apache-log4j-2.18.0-src/log4j-jdbc-dbcp2/src/test/java" />
+          <root url="jar://D:/Download/apache-log4j-2.18.0-src.zip!/apache-log4j-2.18.0-src/log4j-jmx-gui/src/main/java" />
+          <root url="jar://D:/Download/apache-log4j-2.18.0-src.zip!/apache-log4j-2.18.0-src/log4j-jpa/src/main/java" />
+          <root url="jar://D:/Download/apache-log4j-2.18.0-src.zip!/apache-log4j-2.18.0-src/log4j-jpa/src/test/java" />
+          <root url="jar://D:/Download/apache-log4j-2.18.0-src.zip!/apache-log4j-2.18.0-src/log4j-jpl/src/main/java" />
+          <root url="jar://D:/Download/apache-log4j-2.18.0-src.zip!/apache-log4j-2.18.0-src/log4j-jpl/src/test/java" />
+          <root url="jar://D:/Download/apache-log4j-2.18.0-src.zip!/apache-log4j-2.18.0-src/log4j-jul/src/main/java" />
+          <root url="jar://D:/Download/apache-log4j-2.18.0-src.zip!/apache-log4j-2.18.0-src/log4j-jul/src/test/java" />
+          <root url="jar://D:/Download/apache-log4j-2.18.0-src.zip!/apache-log4j-2.18.0-src/log4j-kubernetes/src/main/java" />
+          <root url="jar://D:/Download/apache-log4j-2.18.0-src.zip!/apache-log4j-2.18.0-src/log4j-kubernetes/src/test/java" />
+          <root url="jar://D:/Download/apache-log4j-2.18.0-src.zip!/apache-log4j-2.18.0-src/log4j-layout-template-json/src/main/java" />
+          <root url="jar://D:/Download/apache-log4j-2.18.0-src.zip!/apache-log4j-2.18.0-src/log4j-layout-template-json/src/test/java" />
+          <root url="jar://D:/Download/apache-log4j-2.18.0-src.zip!/apache-log4j-2.18.0-src/log4j-liquibase/src/main/java" />
+          <root url="jar://D:/Download/apache-log4j-2.18.0-src.zip!/apache-log4j-2.18.0-src/log4j-liquibase/src/test/java" />
+          <root url="jar://D:/Download/apache-log4j-2.18.0-src.zip!/apache-log4j-2.18.0-src/log4j-mongodb3/src/main/java" />
+          <root url="jar://D:/Download/apache-log4j-2.18.0-src.zip!/apache-log4j-2.18.0-src/log4j-mongodb3/src/test/java" />
+          <root url="jar://D:/Download/apache-log4j-2.18.0-src.zip!/apache-log4j-2.18.0-src/log4j-mongodb4/src/main/java" />
+          <root url="jar://D:/Download/apache-log4j-2.18.0-src.zip!/apache-log4j-2.18.0-src/log4j-mongodb4/src/test/java" />
+          <root url="jar://D:/Download/apache-log4j-2.18.0-src.zip!/apache-log4j-2.18.0-src/log4j-osgi/src/test/java" />
+          <root url="jar://D:/Download/apache-log4j-2.18.0-src.zip!/apache-log4j-2.18.0-src/log4j-perf/src/main/java" />
+          <root url="jar://D:/Download/apache-log4j-2.18.0-src.zip!/apache-log4j-2.18.0-src/log4j-samples/log4j-samples-configuration/src/main/java" />
+          <root url="jar://D:/Download/apache-log4j-2.18.0-src.zip!/apache-log4j-2.18.0-src/log4j-samples/log4j-samples-configuration/src/test/java" />
+          <root url="jar://D:/Download/apache-log4j-2.18.0-src.zip!/apache-log4j-2.18.0-src/log4j-samples/log4j-samples-flume-common/src/main/java" />
+          <root url="jar://D:/Download/apache-log4j-2.18.0-src.zip!/apache-log4j-2.18.0-src/log4j-samples/log4j-samples-loggerProperties/src/main/java" />
+          <root url="jar://D:/Download/apache-log4j-2.18.0-src.zip!/apache-log4j-2.18.0-src/log4j-samples/log4j-samples-loggerProperties/src/test/java" />
+          <root url="jar://D:/Download/apache-log4j-2.18.0-src.zip!/apache-log4j-2.18.0-src/log4j-slf4j-impl/src/main/java" />
+          <root url="jar://D:/Download/apache-log4j-2.18.0-src.zip!/apache-log4j-2.18.0-src/log4j-slf4j-impl/src/test/java" />
+          <root url="jar://D:/Download/apache-log4j-2.18.0-src.zip!/apache-log4j-2.18.0-src/log4j-slf4j18-impl/src/main/java" />
+          <root url="jar://D:/Download/apache-log4j-2.18.0-src.zip!/apache-log4j-2.18.0-src/log4j-slf4j18-impl/src/test/java" />
+          <root url="jar://D:/Download/apache-log4j-2.18.0-src.zip!/apache-log4j-2.18.0-src/log4j-spring-boot/src/main/java" />
+          <root url="jar://D:/Download/apache-log4j-2.18.0-src.zip!/apache-log4j-2.18.0-src/log4j-spring-boot/src/test/java" />
+          <root url="jar://D:/Download/apache-log4j-2.18.0-src.zip!/apache-log4j-2.18.0-src/log4j-spring-cloud-config/log4j-spring-cloud-config-client/src/main/java" />
+          <root url="jar://D:/Download/apache-log4j-2.18.0-src.zip!/apache-log4j-2.18.0-src/log4j-spring-cloud-config/log4j-spring-cloud-config-client/src/test/java" />
+          <root url="jar://D:/Download/apache-log4j-2.18.0-src.zip!/apache-log4j-2.18.0-src/log4j-spring-cloud-config/log4j-spring-cloud-config-samples/log4j-spring-cloud-config-sample-application/src/main/java" />
+          <root url="jar://D:/Download/apache-log4j-2.18.0-src.zip!/apache-log4j-2.18.0-src/log4j-spring-cloud-config/log4j-spring-cloud-config-samples/log4j-spring-cloud-config-sample-server/src/main/java" />
+          <root url="jar://D:/Download/apache-log4j-2.18.0-src.zip!/apache-log4j-2.18.0-src/log4j-spring-cloud-config/log4j-spring-cloud-config-samples/log4j-spring-cloud-config-sample-server/src/test/java" />
+          <root url="jar://D:/Download/apache-log4j-2.18.0-src.zip!/apache-log4j-2.18.0-src/log4j-taglib/src/main/java" />
+          <root url="jar://D:/Download/apache-log4j-2.18.0-src.zip!/apache-log4j-2.18.0-src/log4j-taglib/src/test/java" />
+          <root url="jar://D:/Download/apache-log4j-2.18.0-src.zip!/apache-log4j-2.18.0-src/log4j-to-jul/src/main/java" />
+          <root url="jar://D:/Download/apache-log4j-2.18.0-src.zip!/apache-log4j-2.18.0-src/log4j-to-jul/src/test/java" />
+          <root url="jar://D:/Download/apache-log4j-2.18.0-src.zip!/apache-log4j-2.18.0-src/log4j-to-slf4j/src/main/java" />
+          <root url="jar://D:/Download/apache-log4j-2.18.0-src.zip!/apache-log4j-2.18.0-src/log4j-to-slf4j/src/test/java" />
+          <root url="jar://D:/Download/apache-log4j-2.18.0-src.zip!/apache-log4j-2.18.0-src/log4j-web/src/main/java" />
+          <root url="jar://D:/Download/apache-log4j-2.18.0-src.zip!/apache-log4j-2.18.0-src/log4j-web/src/test/java" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/Download/slf4j.jar.zip!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/Download/apache-log4j-2.18.0-bin.zip!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="jar://D:/Download/apache-log4j-2.18.0-bin.zip!/" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="Maven: org.openjfx:javafx-controls:18.0.2" level="project" />
+    <orderEntry type="library" name="Maven: org.openjfx:javafx-controls:win:18.0.2" level="project" />
+    <orderEntry type="library" name="Maven: org.openjfx:javafx-graphics:18.0.2" level="project" />
+    <orderEntry type="library" name="Maven: org.openjfx:javafx-graphics:win:18.0.2" level="project" />
+    <orderEntry type="library" name="Maven: org.openjfx:javafx-base:18.0.2" level="project" />
+    <orderEntry type="library" name="Maven: org.openjfx:javafx-base:win:18.0.2" level="project" />
+    <orderEntry type="library" name="Maven: org.openjfx:javafx-fxml:18.0.2" level="project" />
+    <orderEntry type="library" name="Maven: org.openjfx:javafx-fxml:win:18.0.2" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.logging.log4j:log4j-slf4j18-impl:2.18.0" level="project" />
+    <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.8.0-beta4" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.logging.log4j:log4j-core:2.18.0" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.logging.log4j:log4j-api:2.18.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.junit.jupiter:junit-jupiter-api:5.9.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.opentest4j:opentest4j:1.2.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.junit.platform:junit-platform-commons:1.9.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.apiguardian:apiguardian-api:1.1.2" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.junit.jupiter:junit-jupiter-engine:5.9.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.junit.platform:junit-platform-engine:1.9.0" level="project" />
+  </component>
+</module>
